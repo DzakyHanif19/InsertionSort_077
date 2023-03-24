@@ -32,3 +32,4 @@ void input() {
 
 void insertionsort() {
 	int temp;
+	int j;
